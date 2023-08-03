@@ -1,7 +1,7 @@
 //-------------------------------------------
 // Project: Guthub test
 // Purpose: Implement a majority voter
-// Author: ANM
+// Author: ANM, 2023
 //-------------------------------------------
 module maj_vote(
     input   logic             x0_i,
